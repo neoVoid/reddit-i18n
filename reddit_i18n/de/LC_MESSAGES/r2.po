@@ -3591,7 +3591,7 @@ msgstr "Links"
 
 #: r2/templates/prefoptions.html:136
 msgid "show the spotlight box on the front page"
-msgstr ""
+msgstr "zeige die Spotlight-Box auf meiner Frontpage"
 
 #: r2/templates/prefoptions.html:139
 msgid ""
@@ -3673,15 +3673,15 @@ msgstr "%(num)s Kommentare anzeigen"
 
 #: r2/templates/prefoptions.html:201
 msgid "the smaller the number, the faster your comments pages will load"
-msgstr ""
+msgstr "Umso kleiner die Nummer, desto schneller werden die Kommentare geladen"
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
-msgstr ""
+msgstr "Nachrichten-Einstellungen"
 
 #: r2/templates/prefoptions.html:208
 msgid "show message conversations in the inbox"
-msgstr ""
+msgstr "Zeige Unterhaltung in der Inbox"
 
 #: r2/templates/prefoptions.html:211
 msgid "(only applies when you go to the 'messages' panel)"
@@ -3689,19 +3689,19 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:215
 msgid "collapse messages after I've read them"
-msgstr ""
+msgstr "Nachrichten einklappen, nachdem ich sie gelesen habe"
 
 #: r2/templates/prefoptions.html:218
 msgid "(otherwise, you'll have to collapse them yourself)"
-msgstr ""
+msgstr "(ansonsten wirst du das selber machen müssen)"
 
 #: r2/templates/prefoptions.html:222
 msgid "mark messages as read when I open my inbox"
-msgstr ""
+msgstr "Markiere Nachrichten als gelesen, sobald ich meine Inbox öffne"
 
 #: r2/templates/prefoptions.html:225
 msgid "(otherwise, they will be marked as read when you click them)"
-msgstr ""
+msgstr "(ansonsten werden sie als gelesen markiert wenn du sie anklickst"
 
 #: r2/templates/prefoptions.html:230 r2/templates/widgetdemopanel.html:193
 msgid "display options"
@@ -3713,7 +3713,7 @@ msgstr "Erlaube Reddit-spezifische Layouts"
 
 #: r2/templates/prefoptions.html:234
 msgid "show user flair"
-msgstr ""
+msgstr "zeige Userflair"
 
 #: r2/templates/prefoptions.html:237
 msgid "show promote tab on front page"
@@ -3729,15 +3729,15 @@ msgstr "wird für einige Reddits benötigt"
 
 #: r2/templates/prefoptions.html:248
 msgid "label posts that are not safe for work (NSFW)"
-msgstr ""
+msgstr "kennzeichne Posts, die nicht jugendfrei sind als NSFW (Not Safe For Work)"
 
 #: r2/templates/prefoptions.html:250
 msgid "enable private RSS feeds"
-msgstr ""
+msgstr "schalte private RSS feeds ein"
 
 #: r2/templates/prefoptions.html:252
 msgid "(available from the 'RSS feed' tab in prefs)"
-msgstr ""
+msgstr "(verfügbar vom 'RSS Feed' tab in deinen Preferenzen"
 
 #: r2/templates/prefoptions.html:255
 msgid "privacy options"
@@ -3750,57 +3750,59 @@ msgstr "Meine Stimmen öffentlich machen"
 #: r2/templates/prefoptions.html:264
 #, python-format
 msgid "let everyone see %(link1)s and %(link2)s"
-msgstr ""
+msgstr "Lass alle %(link1)s und %(link2)s sehen"
 
 #: r2/templates/prefoptions.html:267
 msgid "allow my data to be used for research purposes"
-msgstr ""
+msgstr "erlaube Reddit, meine Daten für Forschungszwecke zu verwenden"
 
 #: r2/templates/prefoptions.html:277
 msgid "don't allow search engines to index my user profile"
-msgstr ""
+msgstr "verbiete Suchmaschinen, mein Userprofil anzuzeigen"
 
 #: r2/templates/prefoptions.html:285
 msgid "load core JS libraries from reddit servers"
-msgstr ""
+msgstr "lade Haupt-JS-Bibliotheken vom Reddit-Server"
 
 #: r2/templates/prefoptions.html:299
 msgid "gold options"
-msgstr ""
+msgstr "Goldoptionen"
 
 #: r2/templates/prefoptions.html:301
 msgid "show the right sidebar ad box"
-msgstr ""
+msgstr "zeige die rechte Werbebox"
 
 #: r2/templates/prefoptions.html:302
 msgid "the attractive 300x250 one that usually only has reddit t-shirts in it"
-msgstr ""
+msgstr "die attraktive 300x250-Box, die meistens eh nur Reddit T-Shirts zeigt"
 
 #: r2/templates/prefoptions.html:304
 msgid "show sponsored links"
-msgstr ""
+msgstr "zeige gesponsorte Links"
 
 #: r2/templates/prefoptions.html:305
 msgid "the blue advertisements that sometimes appear on the top of the page"
-msgstr ""
+msgstr "Die blaue Werbebox, die manchmal am oberen Ende der Seite erscheint"
 
 #: r2/templates/prefoptions.html:307
 msgid "show sponsorships"
-msgstr ""
+msgstr "Zeige Sponsorenschaften"
 
 #: r2/templates/prefoptions.html:308
 msgid "the 300x100 'sponsored by...' images that sometimes appear in sidebars"
-msgstr ""
+msgstr "die 300x100 'gesponsort von...'-Bilder die manchmal in der Sidebar sind"
 
 #: r2/templates/prefoptions.html:311
 msgid "highlight new comments"
-msgstr ""
+msgstr "hebe neue Kommentare hervor"
 
 #: r2/templates/prefoptions.html:313
 msgid ""
 "we'll remember your visits for 48 hours and show you which comments you "
 "haven't seen yet"
 msgstr ""
+"Wir erinnern uns and deine Besuche bis zu 48 Stunden lang und zeigen dir, "
+"welche Kommentare du noch nich gesehen hast."
 
 #: r2/templates/prefupdate.html:28
 msgid "update your email or password"
@@ -3820,7 +3822,7 @@ msgstr "Passwort aktualisieren"
 
 #: r2/templates/prefupdate.html:45
 msgid "not set"
-msgstr ""
+msgstr "nicht eingestellt"
 
 #: r2/templates/prefupdate.html:48
 msgid "verified"
@@ -3832,7 +3834,7 @@ msgstr "Verifikation..."
 
 #: r2/templates/prefupdate.html:52
 msgid "click to resend"
-msgstr ""
+msgstr "Klicken, um erneut zu senden"
 
 #: r2/templates/prefupdate.html:54
 msgid "unverified"
@@ -3840,19 +3842,19 @@ msgstr "Nicht verifiziert"
 
 #: r2/templates/prefupdate.html:55
 msgid "click to verify"
-msgstr ""
+msgstr "Klicken, um zu verifizieren"
 
 #: r2/templates/prefupdate.html:65
 msgid "(required)"
-msgstr ""
+msgstr "(benötigt)"
 
 #: r2/templates/prefupdate.html:65
 msgid "current password"
-msgstr ""
+msgstr "momentanes Passwort"
 
 #: r2/templates/prefupdate.html:80 r2/templates/resetpassword.html:38
 msgid "new password"
-msgstr ""
+msgstr "neues Passwort"
 
 #: r2/templates/prefupdate.html:96
 msgid "send verification email"
@@ -3860,11 +3862,11 @@ msgstr "Verifikations-Mail senden"
 
 #: r2/templates/printablebuttons.html:38
 msgid "indict"
-msgstr ""
+msgstr "anklagen"
 
 #: r2/templates/printablebuttons.html:38
 msgid "indicted"
-msgstr ""
+msgstr "angeklagt"
 
 #: r2/templates/printablebuttons.html:45 r2/templates/trophycase.html:47
 #: r2/templates/trophycase.html:67 r2/templates/usertableitem.html:55
@@ -3875,17 +3877,17 @@ msgstr "Entnehmen"
 #: r2/templates/printablebuttons.html:140 r2/templates/trophycase.html:47
 #: r2/templates/trophycase.html:67
 msgid "removed"
-msgstr ""
+msgstr "gelöscht"
 
 #: r2/templates/printablebuttons.html:51
 msgid "approve"
-msgstr ""
+msgstr "bestätigen"
 
 #: r2/templates/printablebuttons.html:52
 #: r2/templates/printablebuttons.html:143
 #: r2/templates/subredditinfobar.html:82
 msgid "approved"
-msgstr ""
+msgstr "bestätigt"
 
 #: r2/templates/printablebuttons.html:58
 msgid "report"
@@ -3893,19 +3895,19 @@ msgstr "Melden"
 
 #: r2/templates/printablebuttons.html:62
 msgid "nsfw"
-msgstr ""
+msgstr "NSFW"
 
 #: r2/templates/printablebuttons.html:62
 msgid "marked"
-msgstr ""
+msgstr "markiert"
 
 #: r2/templates/printablebuttons.html:65
 msgid "un-nsfw"
-msgstr ""
+msgstr "un-NSFW"
 
 #: r2/templates/printablebuttons.html:65
 msgid "unmarked"
-msgstr ""
+msgstr "markierung entfernt"
 
 #: r2/templates/printablebuttons.html:78
 msgid "distinguishing..."
@@ -3922,27 +3924,27 @@ msgstr ""
 #: r2/templates/printablebuttons.html:123
 #, python-format
 msgid "confirm %(obj)s removal"
-msgstr ""
+msgstr "bestätige Entfernung von %(obj)s"
 
 #: r2/templates/printablebuttons.html:126
 #, python-format
 msgid "remove %(obj)s"
-msgstr ""
+msgstr "entferne %(obj)s"
 
 #: r2/templates/printablebuttons.html:131
 #, python-format
 msgid "reapprove %(obj)s"
-msgstr ""
+msgstr "%(obj)s erneut bestätigen"
 
 #: r2/templates/printablebuttons.html:134
 #, python-format
 msgid "approve %(obj)s"
-msgstr ""
+msgstr "bestätige %(obj)s"
 
 #: r2/templates/printablebuttons.html:164
 #: r2/templates/printablebuttons.html:212 r2/templates/sharelink.html:98
 msgid "cancel"
-msgstr "Löschen"
+msgstr "abbrechen"
 
 #: r2/templates/printablebuttons.html:183
 msgid "hidden"
@@ -3975,12 +3977,12 @@ msgstr ""
 #: r2/templates/printablebuttons.html:235
 #, python-format
 msgid "%d spam"
-msgstr ""
+msgstr "%d Spam"
 
 #: r2/templates/printablebuttons.html:241
 #, python-format
 msgid "%d kosher"
-msgstr ""
+msgstr "%d koscher"
 
 #: r2/templates/printablebuttons.html:260
 #: r2/templates/printablebuttons.html:319
@@ -3994,7 +3996,7 @@ msgstr "Kontext"
 
 #: r2/templates/printablebuttons.html:267
 msgid "full comments"
-msgstr ""
+msgstr "alle Kommentare"
 
 #: r2/templates/printablebuttons.html:277
 #: r2/templates/printablebuttons.html:284
@@ -4008,15 +4010,15 @@ msgstr "Antworten"
 
 #: r2/templates/printablebuttons.html:326
 msgid "block user"
-msgstr ""
+msgstr "User blockieren"
 
 #: r2/templates/printablebuttons.html:326
 msgid "blocked"
-msgstr ""
+msgstr "blockiert"
 
 #: r2/templates/printablebuttons.html:330
 msgid "mark unread"
-msgstr ""
+msgstr "als ungelesen markieren"
 
 #: r2/templates/printablebuttons.html:384
 msgid "are you sure?"
@@ -4028,11 +4030,11 @@ msgstr "umschalten"
 
 #: r2/templates/profilebar.html:53
 msgid "+ friends"
-msgstr "+Freund"
+msgstr "+ Freund"
 
 #: r2/templates/profilebar.html:53
 msgid "- friends"
-msgstr "-Freund"
+msgstr "- Freund"
 
 #: r2/templates/profilebar.html:91
 msgid "link karma"
@@ -4044,7 +4046,7 @@ msgstr "Kommentar-Karma"
 
 #: r2/templates/profilebar.html:110
 msgid "of reddit gold remaining"
-msgstr ""
+msgstr "an Reddit Gold übrig"
 
 #: r2/templates/profilebar.html:118
 msgid "Recurring Paypal subscription"
@@ -4056,7 +4058,7 @@ msgstr "Eine Nachricht schicken"
 
 #: r2/templates/profilebar.html:143
 msgid "redditor for"
-msgstr ""
+msgstr "Redditor seit"
 
 #: r2/templates/promote_graph.html:171
 msgid "total promotion traffic"
@@ -4086,27 +4088,27 @@ msgstr ""
 
 #: r2/templates/promotedlink.html:58
 msgid "deleted sponsored link"
-msgstr ""
+msgstr "gelöschter gesponsorter Link"
 
 #: r2/templates/promotedlink.html:60
 msgid "unpaid sponsored link"
-msgstr ""
+msgstr "unbezahlter gesponsorter Link"
 
 #: r2/templates/promotedlink.html:62
 msgid "unapproved sponsored link"
-msgstr ""
+msgstr "unbestätigter gesponsorter Link"
 
 #: r2/templates/promotedlink.html:64
 msgid "rejected sponsored link"
-msgstr ""
+msgstr "abgelehnter gesponsorter Link"
 
 #: r2/templates/promotedlink.html:66 r2/templates/promotedlink.html:71
 msgid "sponsored link"
-msgstr ""
+msgstr "gesponsorter Link"
 
 #: r2/templates/promotedlink.html:68
 msgid "accepted sponsored link"
-msgstr ""
+msgstr "akzeptierter gesponsorter Link"
 
 #: r2/templates/promotedtraffic.html:48
 msgid "Promotion Traffic"
@@ -4114,7 +4116,7 @@ msgstr ""
 
 #: r2/templates/promotedtraffic.html:50
 msgid "(download as .csv)"
-msgstr ""
+msgstr "(als .csv runterladen)"
 
 #: r2/templates/promotelinkform.html:64
 msgid "create a promotion"
@@ -4130,19 +4132,19 @@ msgstr ""
 
 #: r2/templates/promotelinkform.html:300
 msgid "upload header image:"
-msgstr ""
+msgstr "Header-Bild hochladen"
 
 #: r2/templates/promotelinkform.html:329
 msgid "disable comments"
-msgstr ""
+msgstr "Kommentare abschalten"
 
 #: r2/templates/promotelinkform.html:361
 msgid "width"
-msgstr ""
+msgstr "Breite"
 
 #: r2/templates/promotelinkform.html:369
 msgid "height"
-msgstr ""
+msgstr "Höhe"
 
 #: r2/templates/promotelinkform.html:414 r2/templates/promotelinkform.html:495
 msgid "promotion history"
@@ -4176,11 +4178,11 @@ msgstr "Datenschutzbestimmungedit"
 #: r2/templates/redditfooter.html:53
 #, python-format
 msgid "%(year)d reddit inc. All rights reserved."
-msgstr ""
+msgstr "%(year)d reddit inc. All rights reserverd."
 
 #: r2/templates/redditheader.html:32
 msgid "jump to content"
-msgstr ""
+msgstr "Zum Inhalt springen"
 
 #: r2/templates/redditheader.html:65
 #, python-format
@@ -4193,13 +4195,13 @@ msgstr "Registrieren"
 
 #: r2/templates/redditheader.html:103
 msgid "mod messages"
-msgstr ""
+msgstr "Mod-Nachrichten"
 
 #: r2/templates/reddittraffic.html:48 r2/templates/reddittraffic.html:55
 #: r2/templates/reddittraffic.html:86 r2/templates/reddittraffic.html:185
 #: r2/templates/reddittraffic.html:204
 msgid "date"
-msgstr ""
+msgstr "Datum"
 
 #: r2/templates/reddittraffic.html:49 r2/templates/reddittraffic.html:51
 #: r2/templates/reddittraffic.html:56 r2/templates/reddittraffic.html:87
@@ -4213,11 +4215,11 @@ msgstr ""
 #: r2/templates/reddittraffic.html:187 r2/templates/reddittraffic.html:206
 #: r2/templates/reddittraffic.html:208
 msgid "impressions"
-msgstr ""
+msgstr "Eindrücke"
 
 #: r2/templates/reddittraffic.html:53 r2/templates/reddittraffic.html:59
 msgid "subscriptions"
-msgstr ""
+msgstr "Abonnemonts"
 
 #: r2/templates/reddittraffic.html:103
 msgid "Daily Mean"
@@ -4248,15 +4250,15 @@ msgstr ""
 #: r2/templates/searchbar.html:41
 #, python-format
 msgid "about %(num)d results in %(second)s"
-msgstr ""
+msgstr "ungefähr %(num)d Ergebnisse in %(second)s"
 
 #: r2/templates/searchbar.html:51
 msgid "satisfied?"
-msgstr ""
+msgstr "zufrieden?"
 
 #: r2/templates/searchbar.html:55
 msgid "thanks for your feedback!"
-msgstr ""
+msgstr "Danke für dein Feedback!"
 
 #: r2/templates/searchform.html:34
 msgid "find things posted in {name} only"
@@ -4280,7 +4282,7 @@ msgstr ""
 
 #: r2/templates/searchform.html:44
 msgid "include or exclude self posts"
-msgstr ""
+msgstr "Self-Posts anzeigen/abschalten"
 
 #: r2/templates/searchform.html:46
 msgid "include or exclude results from nsfw reddits"
@@ -4301,7 +4303,7 @@ msgstr "Suche"
 #: r2/templates/searchform.html:67 r2/templates/searchform.html:79
 #, python-format
 msgid "limit my search to %(path)s"
-msgstr ""
+msgstr "Limitiere meine Suche auf %(path)s"
 
 #: r2/templates/share.email:32
 #, python-format
@@ -4356,41 +4358,47 @@ msgstr ""
 #: r2/templates/spotlightlisting.html:59
 #, python-format
 msgid "Click %(here)s to close help."
-msgstr ""
+msgstr "Klicke %(here)s um die Hilfe zu schließen"
 
 #: r2/templates/spotlightlisting.html:60 r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "here"
-msgstr ""
+msgstr "hier"
 
 #: r2/templates/spotlightlisting.html:68
 msgid ""
 "Sometimes reddit needs to ask the community to help fight spam. This is your "
 "chance to take part in that."
 msgstr ""
+"Manchmal braucht Reddit die Hilfe der Community, um Spam zu bekämpfen. Jetzt hast du "
+"die Chance dabei zu sein!"
 
 #: r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "This element has been disabled."
-msgstr ""
+msgstr "Dieses Element wurde abgeschaltet."
 
 #: r2/templates/spotlightlisting.html:76
 #: r2/templates/spotlightlisting.html:103
 #, python-format
 msgid "Click %(here)s to disable this feature."
-msgstr ""
+msgstr "Klick %(here)s um diese Funktion abzuschalten"
 
 #: r2/templates/spotlightlisting.html:96
 msgid ""
 "This area shows new and upcoming links. Vote on links here to help them "
 "become popular, and click the forwards and backwards buttons to view more. "
 msgstr ""
+"Dieser Bereich zeigt neue und aktuelle Links. Stimme hier ab was dir gefällt, "
+"und ihnen so, bekannt zu werden. Klicke auf die Vor und Zurück-Buttons um mehr anzuzeigen."
 
 #: r2/templates/spotlightlisting.html:118
 msgid ""
 "The new link area will no longer appear for you. To re-enable it, visit your "
 "preferences."
 msgstr ""
+"Der Bereich für neue Links wird dir nicht mehr angezeigt. Um ihn wieder "
+"anzuzeigen, besuche deinen Einstellungen."
 
 #: r2/templates/subreddit.html:59
 #, python-format
@@ -4399,28 +4407,28 @@ msgstr "eine Gemeinde für %(time)s"
 
 #: r2/templates/subreddit.html:64
 msgid "unsubscribe"
-msgstr ""
+msgstr "Abonnement"
 
 #: r2/templates/subreddit.html:85 r2/templates/subreddit.html:86
 msgid "not approved"
-msgstr ""
+msgstr "nicht bestätigt"
 
 #: r2/templates/subreddit.html:97
 msgid "over18"
-msgstr ""
+msgstr "über18"
 
 #: r2/templates/subredditinfobar.html:34
 msgid "leave"
-msgstr "Weggehen"
+msgstr "verlassen"
 
 #: r2/templates/subredditinfobar.html:48
 #, python-format
 msgid "you are a moderator of this reddit. (%(leave)s)"
-msgstr ""
+msgstr "Du bist ein Moderator dieses Reddits. (%(leave)s)"
 
 #: r2/templates/subredditinfobar.html:49
 msgid "stop being a moderator?"
-msgstr "stoppen Sie, ein Moderator zu sein?"
+msgstr "Kein Moderator mehr sein?"
 
 #: r2/templates/subredditinfobar.html:50
 msgid "you are no longer a moderator"
@@ -4429,32 +4437,32 @@ msgstr "Sie sind nicht mehr ein Moderator"
 #: r2/templates/subredditinfobar.html:56
 #, python-format
 msgid "you are an approved submitter on this reddit. (%(leave)s)"
-msgstr ""
+msgstr "Du bist ein bestätigter Einreicher für dieses Reddit. (%(leave)s)"
 
 #: r2/templates/subredditinfobar.html:57
 msgid "stop being an approved submitter?"
-msgstr ""
+msgstr "aufhören, ein bestätigter Einreicher zu sein?"
 
 #: r2/templates/subredditinfobar.html:58
 msgid "you are no longer an approved submitter"
-msgstr ""
+msgstr "du bist nun kein bestätigter Einreicher mehr"
 
 #: r2/templates/subredditinfobar.html:71
 #, python-format
 msgid "created by&#32;%(user)s"
-msgstr ""
+msgstr "erstellt von&#32;%(user)s"
 
 #: r2/templates/subredditinfobar.html:75
 msgid "a community for"
-msgstr ""
+msgstr "eine Community für"
 
 #: r2/templates/subredditinfobar.html:81
 msgid "approve this reddit"
-msgstr ""
+msgstr "bestätige dieses Reddit"
 
 #: r2/templates/subredditinfobar.html:89
 msgid "ban this reddit"
-msgstr ""
+msgstr "Banne dieses Reddit"
 
 #: r2/templates/subredditinfobar.html:90 r2/templates/subscriptionbox.html:57
 msgid "banned"
@@ -4462,20 +4470,20 @@ msgstr "Gebannt"
 
 #: r2/templates/subredditstylesheet.html:41
 msgid "stylesheet"
-msgstr ""
+msgstr "stylesheet"
 
 #: r2/templates/subredditstylesheet.html:70
 msgid "show the default stylesheet"
-msgstr ""
+msgstr "zeige das Standard-stylesheet"
 
 #: r2/templates/subredditstylesheet.html:71
 msgid "hide the default stylesheet"
-msgstr ""
+msgstr "verstecke das Standard-stylesheet"
 
 #: r2/templates/subredditstylesheet.html:81
 #: r2/templates/subredditstylesheet.html:262
 msgid "preview"
-msgstr ""
+msgstr "Vorschau"
 
 #: r2/templates/subredditstylesheet.html:96
 msgid "images"
@@ -4483,65 +4491,67 @@ msgstr "Bilder"
 
 #: r2/templates/subredditstylesheet.html:100
 msgid "image file"
-msgstr ""
+msgstr "Bilddatei"
 
 #: r2/templates/subredditstylesheet.html:103
 msgid "new image name:"
-msgstr ""
+msgstr "neuer Bildname:"
 
 #: r2/templates/subredditstylesheet.html:108
 msgid "(image names should consist of alphanumeric characters and '-' only)"
-msgstr ""
+msgstr "(Bildnamen sollte aus alphanumerischen Zeichen und '-' bestehen)"
 
 #: r2/templates/subredditstylesheet.html:112
 msgid ""
 "Note: any changes to images here will be reflected immediately on reload and "
 "cannot be undone."
 msgstr ""
+"Achtung: jede Veränderung an Bilder wird sofort angezeigt und kann nicht 
+"rückgängig gemacht werden."
 
 #: r2/templates/subredditstylesheet.html:205
 msgid "please select an image"
-msgstr ""
+msgstr "bitte ein Bild auswählen"
 
 #: r2/templates/subredditstylesheet.html:240
 msgid "paste into stylesheet"
-msgstr ""
+msgstr "ins stylesheet kopieren"
 
 #: r2/templates/subredditstylesheet.html:243
 msgid "delete this image"
-msgstr ""
+msgstr "lösche dieses Bild"
 
 #: r2/templates/subredditstylesheet.html:265
 msgid "normal link"
-msgstr ""
+msgstr "normaler Link"
 
 #: r2/templates/subredditstylesheet.html:269
 msgid "compressed link"
-msgstr ""
+msgstr "Kompressierter Link"
 
 #: r2/templates/subredditstylesheet.html:273
 msgid "link with thumbnail"
-msgstr ""
+msgstr "Link mit Thumbnail"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
-msgstr ""
+msgstr "Danke fürs abonnieren!"
 
 #: r2/templates/thanks.html:39
 msgid "enter your confirmation code below to claim your gift creddits"
-msgstr ""
+msgstr "gebe unten dein Bestätigungscode ein um deinen Geschenk-Creddits zu erhalten"
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr ""
+msgstr "geb dein Bestätigungscode unten ein um Reddit Gold zu aktivieren"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
-msgstr ""
+msgstr "Du hast in den letzten paar Minuten ein Reddit Gold Abonnement beansprucht"
 
 #: r2/templates/thanks.html:46
 msgid "You're already a reddit gold subscriber."
-msgstr ""
+msgstr "Du hast bereits ein Reddit Gold Abonnement."
 
 #: r2/templates/thanks.html:49
 msgid ""
@@ -4551,7 +4561,7 @@ msgstr ""
 
 #: r2/templates/thanks.html:62
 msgid "claim"
-msgstr ""
+msgstr "beanspruchen"
 
 #: r2/templates/trophycase.html:74
 msgid "dust"
@@ -4560,7 +4570,7 @@ msgstr "Staub"
 #: r2/templates/trophycase.html:107
 #, python-format
 msgid "%d more"
-msgstr ""
+msgstr "%d mehr"
 
 #: r2/templates/unfoundpage.html:25
 msgid "the page you requested does not exist"
@@ -4572,11 +4582,11 @@ msgstr ""
 
 #: r2/templates/userawards.html:54
 msgid "won by"
-msgstr ""
+msgstr "gewonnen von"
 
 #: r2/templates/userawards.html:57
 msgid "recently won by"
-msgstr ""
+msgstr "vor kurzem gewonne von"
 
 #: r2/templates/userawards.html:85
 msgid "for this"
@@ -4584,7 +4594,7 @@ msgstr "für"
 
 #: r2/templates/userawards.html:95
 msgid "Special awards:"
-msgstr ""
+msgstr "Spezielle Awards"
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
@@ -4592,15 +4602,15 @@ msgstr ""
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "IP-Addresse"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "Ort"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "Letzter Besuch"
 
 #: r2/templates/userlist.html:37
 msgid "add"
@@ -4608,7 +4618,7 @@ msgstr "Hinzufügen"
 
 #: r2/templates/usertableitem.html:61
 msgid "can't remove"
-msgstr ""
+msgstr "kann nicht entfernt werden"
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
@@ -4654,11 +4664,11 @@ msgstr ""
 
 #: r2/templates/utils.html:305
 msgid "uploading"
-msgstr ""
+msgstr "wird hochgeladen"
 
 #: r2/templates/utils.html:307
 msgid "upload"
-msgstr ""
+msgstr "hochladen"
 
 #: r2/templates/utils.html:516
 msgid "popular choices"
@@ -4705,12 +4715,12 @@ msgstr "Abgelehnt von"
 
 #: r2/templates/widgetdemopanel.html:145
 msgid "listing options"
-msgstr ""
+msgstr "Listenoptionen"
 
 #: r2/templates/widgetdemopanel.html:151
 #, python-format
 msgid "links from %(domain)s"
-msgstr ""
+msgstr "Links von %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:155
 #, python-format
@@ -4720,11 +4730,11 @@ msgstr ""
 #: r2/templates/widgetdemopanel.html:159
 #, python-format
 msgid "links from the domain %(domain)s"
-msgstr ""
+msgstr "Links von der Domain %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:165
 msgid "sorting options"
-msgstr ""
+msgstr "Sortieroptionen"
 
 #: r2/templates/widgetdemopanel.html:171
 msgid "hottest"
@@ -4737,7 +4747,7 @@ msgstr "Neueste"
 #: r2/templates/widgetdemopanel.html:176
 #, python-format
 msgid "sort links by %(what)s"
-msgstr ""
+msgstr "Sortiere Links nach %(what)s"
 
 #: r2/templates/widgetdemopanel.html:179
 #, python-format
@@ -4746,11 +4756,11 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:182
 msgid "number of links to show"
-msgstr ""
+msgstr "Anzahl von angezeigten Links"
 
 #: r2/templates/widgetdemopanel.html:200
 msgid "remove css styling"
-msgstr ""
+msgstr "CSS styling entfernen"
 
 #: r2/templates/widgetdemopanel.html:202
 msgid "(the widget will inherit all styles from the page)"
@@ -4766,11 +4776,11 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:221
 msgid "two columns"
-msgstr ""
+msgstr "zwei Spalten"
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
-msgstr ""
+msgstr "Hintergrungfarbe"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
@@ -4778,7 +4788,7 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "Randfarbe"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
@@ -4808,13 +4818,13 @@ msgstr ""
 #~ msgstr "Feedback"
 
 #~ msgid "Create your own reddit"
-#~ msgstr "Erstellen Sie einen reddit"
+#~ msgstr "Erstelle ein eigenes Reddit"
 
 #~ msgid "about us"
 #~ msgstr "Über uns"
 
 #~ msgid "manage your reddit"
-#~ msgstr "Verwalten Dein reddit"
+#~ msgstr "Verwalte dein Reddit"
 
 #~ msgid "millisecond"
 #~ msgid_plural "milliseconds"
