@@ -94,7 +94,7 @@ msgstr "Gelöscht"
 
 #: r2/controllers/api.py:1195 r2/templates/subredditstylesheet.html:196
 msgid "bad image name"
-msgstr "schlechter bildname"
+msgstr "Ungültiger Bildname"
 
 #: r2/controllers/api.py:1199
 #, python-format
@@ -214,11 +214,11 @@ msgstr "Dieser Benutzername ist schon vergeben"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr "Dieser Benutzername ist schon von einem gelöschten Account vergeben"
+msgstr "Dieser Benutzername ist schon an einen gelöschten Account vergeben"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr "Du kannst nichts and einen Benutzer senden, den du blockiert hast"
+msgstr "Du kannst nichts an einen Benutzer senden, den du blockiert hast"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -258,11 +258,11 @@ msgstr "Passwörter stimmen nicht überein"
 
 #: r2/controllers/errors.py:45
 msgid "please enter a name"
-msgstr "Bitte gib einen Namen ein"
+msgstr "Bitte gebe einen Namen ein"
 
 #: r2/controllers/errors.py:46
 msgid "please enter an email address"
-msgstr "Bitte gib eine Email-Addresse ein"
+msgstr "Bitte gebe eine Email-Addresse ein"
 
 #: r2/controllers/errors.py:47
 msgid "no email address for that user"
@@ -274,7 +274,7 @@ msgstr "An wen senden?"
 
 #: r2/controllers/errors.py:49
 msgid "please enter a subject"
-msgstr "Bitte gib einen Betreff ein"
+msgstr "Bitte gebe einen Betreff ein"
 
 #: r2/controllers/errors.py:50 r2/templates/gold.html:143
 msgid "that user doesn't exist"
@@ -282,7 +282,7 @@ msgstr "Dieser Benutzer existiert nicht"
 
 #: r2/controllers/errors.py:51
 msgid "please enter a username"
-msgstr "Bitte gib einen Benutzernamen ein"
+msgstr "Bitte gebe einen Benutzernamen ein"
 
 #: r2/controllers/errors.py:53
 #, python-format
@@ -348,7 +348,7 @@ msgstr "DIe folgenden E-Mails sind ungültig: %(emails)s"
 
 #: r2/controllers/errors.py:71
 msgid "please enter at least one email address"
-msgstr "Bitte gib mindestens eine E-Mail-Adresse ein"
+msgstr "Bitte gebe mindestens eine E-Mail-Adresse ein"
 
 #: r2/controllers/errors.py:72
 #, python-format
@@ -364,7 +364,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:74
 msgid "please provide a date of the form mm/dd/yyyy"
-msgstr "Bitte gib ein Datum in der Form mm/tt/jjjj ein."
+msgstr "Bitte gebe ein Datum in der Form mm/tt/jjjj ein."
 
 #: r2/controllers/errors.py:75
 msgid "the dates need to be in order and not identical"
@@ -373,12 +373,12 @@ msgstr "Die Daten müssen geordnet und nicht identisch sein"
 #: r2/controllers/errors.py:76
 #, python-format
 msgid "please enter a date at least %(day)s days in the future"
-msgstr "Bitte gib ein Datum ein, welches mindestens %(day)s Tage in der Zukunft liegt"
+msgstr "Bitte gebe ein Datum ein, welches mindestens %(day)s Tage in der Zukunft liegt"
 
 #: r2/controllers/errors.py:77
 #, python-format
 msgid "please enter a date at least %(day)s days in the past"
-msgstr "Bitte gib ein Datum ein, welches mindestens %(day)s Tage in der Vergangenheit liegt"
+msgstr "Bitte gebe ein Datum ein, welches mindestens %(day)s Tage in der Vergangenheit liegt"
 
 #: r2/controllers/errors.py:78
 #, python-format
@@ -678,23 +678,23 @@ msgstr "Suche fehlgeschlagen"
 
 #: r2/controllers/validator/validator.py:1476
 msgid "please provide a first name"
-msgstr "Bitte gib einen Vornamen an"
+msgstr "Bitte gebe einen Vornamen an"
 
 #: r2/controllers/validator/validator.py:1478
 msgid "please provide a last name"
-msgstr "Bitte gib einen Nachnamen an"
+msgstr "Bitte gebe einen Nachnamen an"
 
 #: r2/controllers/validator/validator.py:1480
 msgid "please provide an address"
-msgstr "Bitte gib eine Addresse an"
+msgstr "Bitte gebe eine Addresse an"
 
 #: r2/controllers/validator/validator.py:1482
 msgid "please provide your city"
-msgstr "Bitte gib deine Stadt an"
+msgstr "Bitte gebe deine Stadt an"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
-msgstr "Bitte gib deinen Staat"
+msgstr "Bitte gebe deinen Staat"
 
 #: r2/controllers/validator/validator.py:1486
 msgid "please provide your zip or post code"
@@ -2350,7 +2350,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:89 r2/templates/upgradebuttons.html:55
 msgid "specify a url"
-msgstr "gib eine URL an"
+msgstr "gebe eine URL an"
 
 #: r2/templates/buttondemopanel.html:90 r2/templates/upgradebuttons.html:56
 msgid ""
@@ -2360,11 +2360,11 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:94 r2/templates/upgradebuttons.html:60
 msgid "specify a community to target"
-msgstr "gib eine Zielgruppe an"
+msgstr "gebe eine Zielgruppe an"
 
 #: r2/templates/buttondemopanel.html:98 r2/templates/upgradebuttons.html:64
 msgid "specify a title"
-msgstr "gib einen Titel an"
+msgstr "gebe einen Titel an"
 
 #: r2/templates/buttondemopanel.html:102 r2/templates/prefoptions.html:109
 #: r2/templates/upgradebuttons.html:68
@@ -2373,11 +2373,11 @@ msgstr "Öffne Links in einem neuen Fenster"
 
 #: r2/templates/buttondemopanel.html:106 r2/templates/upgradebuttons.html:72
 msgid "specify the color"
-msgstr "gib eine Farbe an"
+msgstr "gebe eine Farbe an"
 
 #: r2/templates/buttondemopanel.html:110 r2/templates/upgradebuttons.html:76
 msgid "specify a border color"
-msgstr "gib eine Grenzfarbe an"
+msgstr "gebe eine Grenzfarbe an"
 
 #: r2/templates/buttondemopanel.html:115 r2/templates/upgradebuttons.html:81
 msgid "to make this button:"
@@ -2659,7 +2659,7 @@ msgstr "Benenne diese Kampagne (für traffic)"
 
 #: r2/templates/createsubreddit.html:265
 msgid "enter link url here"
-msgstr "Gib hier die Link-URL ein"
+msgstr "Gebe hier die Link-URL ein"
 
 #: r2/templates/createsubreddit.html:270
 msgid "upload sponsorship image"
@@ -2879,7 +2879,7 @@ msgstr ""
 
 #: r2/templates/gold.html:92
 msgid "Give reddit gold to someone else"
-msgstr "Gib jemandem Reddit Gold"
+msgstr "Gebe jemandem Reddit Gold"
 
 #: r2/templates/gold.html:94
 msgid "Buy reddit gold \"creddits\""
@@ -4835,7 +4835,7 @@ msgstr ""
 #~ msgstr "reddit.com: Was gibt's Neues online!"
 
 #~ msgid "type the letters from the image above"
-#~ msgstr "Bitte gib die Buchstaben vom obigen Bild ein"
+#~ msgstr "Bitte gebe die Buchstaben vom obigen Bild ein"
 
 #~ msgid "redditor for %(time)s"
 #~ msgstr "Redditor seit %(time)s"
